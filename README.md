@@ -13,17 +13,15 @@
 - ⚡ Fun fact: I can explain the difference between three-tier and spine-leaf architectures in my sleep!
 
 ## 🛠 Tech Stack
-**Languages & Scripting**
-Python • PHP • JavaScript • Bash • HTML/CSS
 
+**Languages & Scripting**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
 
-**Networking & Infrastructure**
-Cisco • Spine-Leaf Architecture • VLANs • Routing Protocols • SDN
+**Networking & Infrastructure**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="Cisco" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="30" height="30"/>
 
-
-**Tools & Platforms**
-Git • Docker • Linux • VS Code • MySQL • GitHub Actions
-
+**Tools & Platforms**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
 
 ## 🚀 Featured Projects
 
